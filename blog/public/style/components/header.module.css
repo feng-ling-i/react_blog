@@ -1,0 +1,19 @@
+.header{
+    background-color: #fff;
+    overflow: hidden;
+    height: 2.8rem;
+    border-bottom: 1px solid #ccc;
+    padding:.3rem;
+}
+
+.headerlogo{
+    color: pink;
+    font-size: 1.4rem;
+    text-align: left;
+}
+.headertext{
+    color:pink;
+    font-size: 6rem;
+    display: inline-block;
+    padding-left: .3rem;
+}

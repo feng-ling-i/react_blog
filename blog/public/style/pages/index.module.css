@@ -1,0 +1,17 @@
+.listtitle{
+    font-size:1.3rem;
+    color: #1e90ff;
+    padding: 0 0.5rem;
+}
+.listcontext{
+    color:#777;
+    padding:.5rem;
+}
+.listicon{
+    padding:.5rem 0;
+    color:#AAA;
+}
+.listicon span{
+    display: inline-block;
+    padding: 0 10px;
+}
