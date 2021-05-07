@@ -3,6 +3,7 @@
     overflow: hidden;
     height: 2.8rem;
     border-bottom: 1px solid #ccc;
+    /* text-align: center; */
     padding:.3rem;
 }
 
@@ -12,8 +13,8 @@
     text-align: left;
 }
 .headertext{
-    color:pink;
     font-size: 6rem;
+    color: #999;
     display: inline-block;
     padding-left: .3rem;
 }

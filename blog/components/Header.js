@@ -39,9 +39,9 @@ const Header = () => {
             <Row type="flex" justify="center">
                 <Col xs={21} sm={20} md={10} lg={15} xl={12}>
                     <span className={styles.headerlogo}><Link href={{ pathname: '/' }}>
-                        <a> 葡萄</a>
+                        <a style={{ color: 'pink' }}> 葡萄</a>
                     </Link></span>
-                    <span className={styles.headertxt}>有人见星辰，有人见尘埃</span>
+                    <span className={styles.headertxt} style={{ color: 'green' }}>有人见星辰，有人见尘埃</span>
                 </Col>
                 <Col xs={3} sm={3} md={14} lg={14} xl={6}>
                     <Menu mode="horizontal"

@@ -6,7 +6,7 @@ const Author = () => {
     return (
         <div className={styles.authordiv}>
             <div><Avatar size={100} src="/2.jpg" /></div>
-            <div className={styles.authorinstroduction}>
+            <div className={styles.authorinstroduction} style={{ color: 'green' }}>
                 有人见星辰，有人见尘埃
                   <Divider>社交账号</Divider>
                 <Tooltip trigger={['click']} title="WeChat：fenglinglinglinging" key={'wechat'}>
